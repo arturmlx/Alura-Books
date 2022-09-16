@@ -1,9 +1,9 @@
 .contato {
-  background-color: var(--branco);
+  border: 0.5em solid white;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 1.5em;
+  margin: 0;
 }
 
 .contato__titulo {
@@ -14,7 +14,7 @@
   -webkit-text-fill-color: transparent;
   font-size: 18px;
   font-weight: 500;
-  margin-bottom: 1em;
+  margin: 1em 0;
 }
 
 .contato__texto {
